@@ -1,0 +1,15 @@
+(footprint "JP2_SMD" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 4289BEAB)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 8af4c2dc-2ced-46ed-a275-78b95952e3ab)
+  )
+  (fp_text value "Circuit Breaker" (at 0 0) (layer "B.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp d82d6d36-2084-41b5-b7d2-32d9e819ce4d)
+  )
+  (pad "1" smd rect (at -0.85725 0 180) (size 0.8128 1.016) (layers "F.Cu") (tstamp a5c32ecb-4d6f-47f5-89d6-5d8f8febff46))
+  (pad "2" smd rect (at 0.85725 0 180) (size 0.8128 1.016) (layers "F.Cu") (tstamp 093b4f95-c12e-4e3e-8dba-698b0ef3a44e))
+)

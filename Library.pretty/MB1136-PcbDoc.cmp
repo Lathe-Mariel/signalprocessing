@@ -1,0 +1,627 @@
+Cmp-Mod V01 Created by PcbNew   date = 2022/12/07 20:29:59
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000539eedbf
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN12;
+ValeurCmp = [NoVal];
+IdModule  = Library:SIP2_2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = ac7d74f7-acdc-4c60-b1e0-f501ddd2f7a1
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB63;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 43625688-d868-4847-92db-2d03a4aabf30
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB62;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = cf1a84d5-f923-4a49-a7c2-6af99e0c97dc
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB61;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 20569117-f8c8-4a1f-a427-70b8a0e2824c
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB60;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = c87be043-005f-4182-8c2d-d2a21973558f
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB59;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 8402c50f-4e06-4664-a014-3401e7dc1a78
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB58;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = ae39fdc1-bf3c-44bc-a001-1a5f8d49b53c
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB57;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = e5eadb99-ff9b-4da0-8fa8-bec94f665834
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB56;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = f2bd0345-df6c-4513-8af5-03bee1c37918
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB55;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = bffa468b-6494-4553-bea0-4026d0314cb7
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB54;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 68e04020-f8ae-44ff-8175-99e1bdb6b19f
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB53;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 9b284bd3-dc76-4774-8532-e68ccedcd441
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB52;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 8f8c1f5b-ab16-467e-af55-36b9c15ebc71
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB51;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 2da3adde-372c-490e-a38f-627015b28ef1
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB50;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 29884639-1078-4626-b86d-33dc32155442
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB49;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5df77ee7-d113-4386-846b-552ec00d3884
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB48;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f908763-b5cd-430d-8014-27c14b56a65a
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB47;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 63e5c0ba-f2cf-439d-87f0-673b944e5110
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = X1;
+ValeurCmp = Crystal Oscillator;
+IdModule  = Library:XTAL1;
+EndCmp
+
+BeginCmp
+TimeStamp = 464675d8-ddc9-4709-91f7-13a68f9b2c9b
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = JP4;
+ValeurCmp = [NoVal];
+IdModule  = Library:SIP2_2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = 693361b6-b631-4bf2-9347-a82713b9baec
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN4;
+ValeurCmp = [NoVal];
+IdModule  = Library:SIP2_2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = 4dfd0abf-6e25-4b65-9c61-02b817914238
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN2;
+ValeurCmp = Header, 4-Pin, Single row;
+IdModule  = Library:1*4;
+EndCmp
+
+BeginCmp
+TimeStamp = a169a433-bea3-4d45-b8ff-4de05a3c8a26
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN1;
+ValeurCmp = Header, 6-Pin, Single row;
+IdModule  = Library:1*6P;
+EndCmp
+
+BeginCmp
+TimeStamp = 099380a5-1311-4619-a400-55301febdb94
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN14;
+ValeurCmp = Header, 6-Pin, Single row,female;
+IdModule  = Library:1*6P_FEMALE;
+EndCmp
+
+BeginCmp
+TimeStamp = 02715dda-72ab-463b-a75b-3a2ac0f190d3
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN11;
+ValeurCmp = Header, 8-Pin, Single row,female;
+IdModule  = Library:1*8P_FEMALE;
+EndCmp
+
+BeginCmp
+TimeStamp = 12f8a7c8-7536-45f7-a674-742c1b3aa868
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN10;
+ValeurCmp = Header, 19-Pin, Dual row;
+IdModule  = Library:2*19P;
+EndCmp
+
+BeginCmp
+TimeStamp = 14957bd1-eaae-4cb1-be09-e8357343675b
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN9;
+ValeurCmp = Header, 19-Pin, Dual row;
+IdModule  = Library:2*19P;
+EndCmp
+
+BeginCmp
+TimeStamp = 85a2cd54-0ff2-4e23-bdc6-b90f345ad6c8
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN8;
+ValeurCmp = Header, 8-Pin, Single row,female;
+IdModule  = Library:1*8P_FEMALE;
+EndCmp
+
+BeginCmp
+TimeStamp = bfeaa79f-f8d8-4790-8bdc-ab148dee4461
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN5;
+ValeurCmp = Header, 10-Pin, Single row,female;
+IdModule  = Library:1*10P_FEMALE;
+EndCmp
+
+BeginCmp
+TimeStamp = d0cfc14f-567d-47e6-987f-e3e9523c07b7
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB21;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = c063edb9-e606-43fa-8041-2e286332f3dc
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB40;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 76c70be1-6b06-4c93-b3bd-0e2d0204b3f2
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB39;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = d9f941f8-9ac8-4326-9eac-1747efb6b97b
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB38;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5beed1e2-2d13-4e61-b144-d15e1bb11a19
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB37;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = bb799370-99bf-4bbc-b9f3-d38159820ca1
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB36;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 92c16c48-059e-4b1c-86ea-a5a83dee0765
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB35;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 13f80e3b-e6ed-475a-b528-910489d10a93
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB34;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = e5c1600e-ed2e-4804-a97a-3cbce5992521
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB33;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 157ee1e3-1ecf-43f8-beab-13b0fc2d00d6
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB31;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 09c3928d-cff1-48a7-a3da-2599a7ca245f
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB30;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d0aacc3-396e-40f3-9f12-72785fccb29e
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB28;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = b8749ef7-d895-453b-9484-c83e6f132630
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB27;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 9e8758c7-2d39-4ba2-ac46-b4731a16fcb8
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB26;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = e6a76554-7b33-40f4-a58b-5a45405c9f77
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB25;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = fead7073-faa5-468a-8f38-0f017ea43608
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB24;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = a05d909c-f26a-4171-ad6b-5dc23aeb2587
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB23;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 529acf5d-e599-4f15-a146-8bf0e1bdd3d0
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB22;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = a5670ddc-b26f-42a4-a717-294126e36d6a
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB20;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 66fb982b-2cf6-415d-b15e-7ceafe26f1d7
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB19;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = c339feae-dbd9-4e81-8fb0-cc7f52758908
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB18;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 8e8b3be5-cf12-4c0a-bd7c-ee29270d9677
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB17;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 64e7b2c7-f8df-4cbc-b0c8-23db9ddd3c38
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB16;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 71a0d1f4-c616-4574-902b-11ee984f7d20
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB15;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 723bcfd4-2b47-46c0-af8a-7b8be462af39
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB14;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 7cdcc0ef-0f9f-4d2d-ba08-c4841037409b
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB13;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5819746e-89e6-454b-bece-a58af3e2c92f
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB12;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 3baad605-d172-4c94-88d1-092bb7e03f39
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB11;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 6885ae3d-9b39-488e-b0f6-cc47b5ebc4e2
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB10;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = dd98a937-813e-407e-809d-fdef39a38eac
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB9;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 472ae605-a07f-47e7-9fb8-61a55814ce96
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB8;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = ceb1b973-439d-4133-a1fa-f48721f8464f
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB7;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = f35ccf37-62ea-4d27-a51c-352cc9f5afbe
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB6;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 55e3926b-ba09-4540-b892-099da1b3388f
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB5;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 2aafe770-efa1-47f1-adbc-d775e64c307c
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB4;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 641cfc2d-6178-4671-98a0-96fa572025b3
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB3;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 81563d8f-70b8-4af0-adc4-1f49c650f2a5
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB2;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5fce7b5b-3cad-4a16-a005-5e67afaf3b16
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB1;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = ebd78d67-4b59-45b5-8787-277eb06f19fa
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB29;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 46f4b094-111e-4a61-8099-04fa0abb8a51
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB32;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 06cbc17a-c86b-4ef7-915a-e3ba172d0978
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB41;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 9189caab-ba24-4926-b47a-adca9a26d8b0
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB42;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 9cd29240-6f71-4c7c-80fc-f70c75a3c0ad
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB43;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 8f998dae-265b-46d9-a7ce-fc57b0db9bdc
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB44;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 58db3a6d-bb37-4649-b88f-542378711bf0
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = CN11;
+ValeurCmp = [NoVal];
+IdModule  = Library:SIP2_2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e177135-129b-4b57-8e18-c7ecb5fdc8cb
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = JP6;
+ValeurCmp = [NoVal];
+IdModule  = Library:SIP2_2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = 49865421-f22d-4c86-bd1b-022365814251
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB64;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f29e2a8-80cc-438e-9ceb-4806d9caa2f4
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = SB65;
+ValeurCmp = Circuit Breaker;
+IdModule  = Library:JP2_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 78d6bcf8-be1f-4f9a-970d-6d802017647a
+Path = /00000000-0000-0000-0000-0000539eec0f
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = Library:DEFAULT;
+EndCmp
+
+EndListe

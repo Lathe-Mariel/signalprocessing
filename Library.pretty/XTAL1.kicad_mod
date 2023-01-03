@@ -1,0 +1,15 @@
+(footprint "XTAL1" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 4289BEAB)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 7f5f71b8-b782-4d72-aa65-1a0a4af6eb86)
+  )
+  (fp_text value "Crystal Oscillator" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 67707160-24ba-494c-926f-891a8a370e7f)
+  )
+  (pad "1" thru_hole circle (at 0.005 0.00919 90) (size 1.5748 1.5748) (drill 0.7112) (layers *.Cu) (tstamp da41235b-e19f-4c6c-86dc-f064c5b2d3fd))
+  (pad "2" thru_hole circle (at 0.005 -5.07081 90) (size 1.5748 1.5748) (drill 0.7112) (layers *.Cu) (tstamp e41b5a2e-ff80-443b-94df-71765ed0787a))
+)
