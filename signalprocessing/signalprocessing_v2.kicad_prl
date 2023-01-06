@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 35,
-    "active_layer_preset": "",
+    "active_layer": 0,
+    "active_layer_preset": "All Copper Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -33,8 +33,6 @@
       3,
       4,
       5,
-      6,
-      7,
       8,
       9,
       10,
@@ -62,14 +60,13 @@
       33,
       34,
       35,
-      36,
-      37
+      36
     ],
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "MB1136-PcbDoc.kicad_prl",
+    "filename": "signalprocessing_v2.kicad_prl",
     "version": 3
   },
   "project": {
