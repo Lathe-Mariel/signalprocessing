@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.5,
-          "width": 1.5
+          "drill": 0.8,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -150,6 +150,7 @@
         "silk_overlap|86250000|138395000|e3432252-b45b-4351-9de7-6a9666ace255|832cb4ec-e8c0-459a-8283-5b3f2a15a230",
         "silk_overlap|87500000|143535000|d4a12478-53b4-4fa5-9328-c554809b015c|e66c2507-f404-429d-aa56-89fd51d754e8",
         "silk_overlap|87520000|138395000|e3432252-b45b-4351-9de7-6a9666ace255|832cb4ec-e8c0-459a-8283-5b3f2a15a230",
+        "silk_overlap|93781000|98460000|3c19b0b8-68b2-44ba-8808-3c8ca6d7df8f|a69dc010-b39c-48fd-922e-aa0b443b8a3b",
         "silk_overlap|93795000|98447500|a69dc010-b39c-48fd-922e-aa0b443b8a3b|3c19b0b8-68b2-44ba-8808-3c8ca6d7df8f",
         "silk_overlap|93815000|93307500|effcd700-447e-4ede-86c6-d59c57861a27|dcc9fec0-5ee1-436f-9cfe-e6ee6daf3511",
         "silk_overlap|96635000|166305000|eeb46d02-abcc-4684-af60-9529cfd3c74e|795d1b30-342d-479e-8302-094e657780e9",
